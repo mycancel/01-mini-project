@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+a:link {
+    text-decoration:none;
+    color:white;
+}
+a:visited {
+    color:white
+}
+
+/*Navigation*/
+header {
+    text-align: right;
+    background-color: teal;
+    padding: 15px; 
+}
+
+/*Links in Navigation Bar: Github, Portfolio, and Contact*/
+li {
+    display: inline;
+    color:white;
+    margin: 10px;
+}
+
+#cat-image {
+    width: 300px;
+    height: 500px;
+    margin: 20px 450px;
+}
+
+/*Caption for image*/
+p {
+    font-size:medium;
+    color: teal;
+    margin: 0 450px;
+}
